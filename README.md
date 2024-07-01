@@ -14,3 +14,5 @@ This is a simple sentiment analysis app built using Streamlit, TextBlob, and NLT
 - TextBlob (sentiment analysis)
 - NLTK (text preprocessing)
 - Python (backend)
+# streamlit deployment 
+https://sentimentanalysis-ccstc53jpudg9npnrk62pv.streamlit.app/
